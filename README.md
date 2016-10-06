@@ -1,7 +1,7 @@
 ## Readme
 
 
-This is a bare-bone API to Apache Zika for Go, a fork of [FunnyMonkey](github.com/FunnyMonkey/sally-tika) effort.  
+This is a bare-bone API to Apache Zika for Go, a fork of [FunnyMonkey](https://github.com/FunnyMonkey/sally-tika) effort.  
 
 ### Setup
 
